@@ -1,0 +1,8 @@
+.terraform/
+*.hcl
+*.tfstate
+*.txt
+*.tfstate.backup
+.terraform.lock.hcl
+*.swp
+.idea/
